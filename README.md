@@ -9,7 +9,7 @@
         - Have an understanding of DAX language and SQL Language.
         
      - My role also includes Managerial responsibilities: -
-        - Working with a Team of engineers and Fire Team Leads(FTLs) to ensure the business targets and timelines are met quaterly.
+        - Working with a Team of engineers and Fire Team Leads(FTLs) to ensure the business targets and timelines are met.
         - Ensure case hygiene and regular FTL reviews on cases are followed.
         - Ensure the team concerns/challenges are addressed and efficient processes are put in place.
   
