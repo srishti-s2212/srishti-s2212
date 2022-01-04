@@ -28,7 +28,6 @@
 - 🌱 I’m currently learning
     - ReactJS, SQL DB
     - Bharatnatyam
-    - Sanskrit
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/srishti-sharma-72870a157/
 
