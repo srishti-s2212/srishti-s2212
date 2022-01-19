@@ -20,7 +20,7 @@
   - I secured 1st rank during college in the academic session of 2014 - 2018 in Department of Information Technology.
   
 - 👀 Interests:
-    I believe that an individual's overall development happens when we learn to engage in activities beyond our core curriculum or job. Below are some activities that I             absolutely love doing in my free time (or rather, I make time for it :D): -
+    I believe that an individual's overall development happens when we engage in activities beyond our core curriculum or job. Below are some activities that I             absolutely love doing in my free time (or rather, I make time for it :D): -
     - Sketching/Painting
     - Classical Dance (Bharatnatyam)
     - Playing outdoor games
