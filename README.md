@@ -13,7 +13,7 @@
         - Ensure case hygiene and regular FTL reviews on cases are followed.
         - Ensure the team concerns/challenges are addressed and efficient processes are put in place.
   
-- I am actively looking for Software Developer roles. 
+- Software Development knowledge: 
   - My strong areas are Data Structures and Algorithms. Here is my GeeksForGeeks Profile: https://auth.geeksforgeeks.org/user/misty/profile
   - C++ is the language I use for Coding.
   - I have also participated in Microsoft internal Software Development contests and have made few side projects on ReactJS which is included in my Github Repository.
