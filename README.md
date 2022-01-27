@@ -23,7 +23,7 @@
     I believe that our overall development happens when we engage in activities beyond our core curriculum or job. Below are some activities that I absolutely love doing in my free time (or rather, I make time for it :D): -
     - Sketching/Painting
     - Classical Dance (Bharatnatyam)
-    - Playing outdoor games
+    - Playing outdoor sport
       
 - 🌱 I’m currently learning
     - ReactJS, SQL DB
