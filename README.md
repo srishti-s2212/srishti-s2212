@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Srishti Sharma. I currently work at Microsoft as a Partner Technical Advisor.
 
-- My job includes working with customers and assisting Partners to resolve issues and use Power BI in the most efficient way. 
+- My job allows me to work with Microsoft customers and assist Microsoft Partners to resolve Power BI technical issues so that Power BI can be used in the most efficient way. 
     - Power BI is a data analytics tool of Microsoft which helps to create interactive dashboards and reports that provide actionable business insights.
     - My role as a Partner Technical Advisor allows me to work on technical aspects of Power BI - 
         - Troubleshoot Power BI issues and work with EEEs & Product Team to resolve issues and share customer feedback.
