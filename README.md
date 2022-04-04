@@ -6,7 +6,6 @@
         - Troubleshoot Power BI issues and work with EEEs & Product Team to resolve issues and share customer feedback.
         - Run PowerShell cmdlets.
         - Analyze logs - Fiddler Trace, Browser Trace, Network Trace, SQL Profiler Trace.
-        - Have an understanding of DAX language and SQL Language.
         
      - My role also includes Managerial responsibilities: -
         - Working with a Team of engineers and Fire Team Leads(FTLs) to ensure the business targets and timelines are met.
