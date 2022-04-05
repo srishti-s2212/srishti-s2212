@@ -23,7 +23,7 @@
     I believe that our overall development happens when we engage in activities beyond our core curriculum or job. Below are some activities that I absolutely enjoy doing in my free time: -
     - Sketching/Painting
     - Reading
-    - Playing outdoor sport
+    - Playing outdoor sport. I participated in 5K Marathon. I am not the best runner but I enjoy any kind of outdoor sport.
     - Classical Dance (Bharatnatyam)
       
 - 🌱 I’m currently learning
