@@ -1,5 +1,6 @@
 - 👋 Hey, I’m Srishti Sharma. I currently work at Microsoft as a Software Engineer.
-Software Engineer - MEDS [5th July 2022 - present]:
+
+**Software Engineer - MEDS [5th July 2022 - present]:**
 - OSDU: Worked on Open Subsurface Data Platform(OSDU) - an open source forum that enables the Energy industry to develop transformational technology for oil/gas/fuel sectors.
 - CORS: Worked on HTTP access control - Cross-Origin Resource Sharing (CORS)
 - Istio: Gained knowledge on Istio - service mesh to manage traffic and enable CORS security
