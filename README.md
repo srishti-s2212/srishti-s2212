@@ -30,7 +30,7 @@
   - I secured **1st rank** in college for the academic session 2014 - 2018 in Department of Information Technology.
   
 - 👀 Interests:
-    I believe that our overall development happens when we engage in activities beyond our core curriculum or job. Below are some activities that I absolutely enjoy doing in my free time: -
+     Below are some activities that I absolutely enjoy doing in my free time: -
     - Sketching/Painting
     - Reading
     - Playing outdoor sport. I participated in 5K Marathon. I am not the best runner but I enjoy any kind of outdoor sport.
