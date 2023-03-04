@@ -5,7 +5,7 @@
 - CORS: Worked on HTTP access control - Cross-Origin Resource Sharing (CORS)
 - Istio: Gained knowledge on Istio - service mesh to manage traffic and enable CORS security
 - System Reliability: Introduced robust logic to handle workflow timeouts and included 3 fallback mechanisms to instance-create logic. Prepared high level one-pager explaining the logic and flow.
-- Ev2: Delivered Public-Preview PLR - Buildout Automation and created fresh set of Ev2 compliant pipelines
+- Azure DevOps Pipelines: Delivered Public-Preview PLR - Buildout Automation and created fresh set of Ev2 compliant pipelines
 - CP/DP: Worked on Control Plane (C#) and Data Plane(Java) services of OSDU
 - Postman: Created Postman test suite to perform API tests in an automated manner from Service ITs
 
