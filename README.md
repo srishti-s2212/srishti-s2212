@@ -22,7 +22,7 @@
 - Improving query performance and enhancing overall report responsiveness.
 - Analyzed and optimized data models and queries for better performance in Power BI.
   
-- Software Development knowledge: 
+**Software Development knowledge:**
   - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here](https://leetcode.com/u/misty1/), GeeksForGeeks profile [here](https://auth.geeksforgeeks.org/user/misty/profile).
   - **C++** is the language I use for coding.
   - I have used **OpenCV in C++** to make projects on **Image Processing - Doc Scanner** and **Video Processing - Virtual Paint**.
