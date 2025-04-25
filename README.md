@@ -6,16 +6,14 @@
 - Integrated Generative AI (Mixtral LLM) for real-time error summarization
 - The GenAI Intelligence enabled users to view errors, suggested root causes, and potential solutions.
 - Task Execution Module: Designed and implemented a Task Execution Module to enhance system efficiency and robustness.
-- Enabled parallel execution, managed asynchronous calls both in backend and UI, and defined precise task order and control flow.
+- Enabled parallel execution, managed asynchronous calls both in backend and UI, and defined precise task sequencing to boost system efficiency and reliability.
 
 **Software Engineer - Azure [Mar 2022 - Apr 2023]:**
 - OSDU: Worked on Open Subsurface Data Platform(OSDU) - an open source forum that enables the Energy industry to develop transformational technology for oil/gas/fuel sectors.
 - CORS: Worked on HTTP access control - Cross-Origin Resource Sharing (CORS)
 - Istio: Gained knowledge on Istio - service mesh to manage traffic and enable CORS security
 - System Reliability: Introduced robust logic to handle workflow timeouts and included 3 fallback mechanisms to instance-create logic. Prepared high level one-pager explaining the logic and flow.
-- Azure DevOps Pipelines: Delivered Public-Preview PLR - Buildout Automation and created fresh set of Ev2 compliant pipelines
 - CP/DP: Worked on Control Plane (C#) and Data Plane(Java) services of OSDU
-- Postman: Created Postman test suite to perform API tests in an automated manner from Service ITs
 
 **Partner Technical Advisor [1st Feb 2021 - 4th July 2022]:**
 - I worked with Microsoft customers and assisted Microsoft Partners to resolve Power BI technical issues so that Power BI can be used in the most efficient way. 
@@ -31,7 +29,7 @@
         - Ensure the team concerns/challenges are addressed and efficient processes are put in place.
   
 - Software Development knowledge: 
-  - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here]([url](https://leetcode.com/u/misty1/)), GeeksForGeeks profile [here]([url](https://auth.geeksforgeeks.org/user/misty/profile)).
+  - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here]([https://leetcode.com/u/misty1/]), GeeksForGeeks profile [here]([https://auth.geeksforgeeks.org/user/misty/profile]).
   - **C++** is the language I use for coding.
   - I have used **OpenCV in C++** to make projects on **Image Processing - Doc Scanner** and **Video Processing - Virtual Paint**.
   - I have also participated in Microsoft internal Software Development contests and have made side projects on ReactJS which is included in my Github Repository.
