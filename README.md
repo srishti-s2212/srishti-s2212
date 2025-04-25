@@ -18,7 +18,7 @@
 - Postman: Created Postman test suite to perform API tests in an automated manner from Service ITs
 
 **Partner Technical Advisor [1st Feb 2021 - 4th July 2022]:**
-- I worked with Microsoft customers and assist Microsoft Partners to resolve Power BI technical issues so that Power BI can be used in the most efficient way. 
+- I worked with Microsoft customers and assisted Microsoft Partners to resolve Power BI technical issues so that Power BI can be used in the most efficient way. 
     - Power BI is a data analytics tool of Microsoft which helps to create interactive dashboards and reports that provide actionable business insights.
     - My role as a Partner Technical Advisor allowed me to work on technical aspects of Power BI - 
         - Troubleshoot Power BI issues and work with EEEs & Product Team to resolve issues and share customer feedback.
