@@ -29,7 +29,7 @@
         - Ensure the team concerns/challenges are addressed and efficient processes are put in place.
   
 - Software Development knowledge: 
-  - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here]([https://leetcode.com/u/misty1/]), GeeksForGeeks profile [here]([https://auth.geeksforgeeks.org/user/misty/profile]).
+  - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here](https://leetcode.com/u/misty1/), GeeksForGeeks profile [here](https://auth.geeksforgeeks.org/user/misty/profile).
   - **C++** is the language I use for coding.
   - I have used **OpenCV in C++** to make projects on **Image Processing - Doc Scanner** and **Video Processing - Virtual Paint**.
   - I have also participated in Microsoft internal Software Development contests and have made side projects on ReactJS which is included in my Github Repository.
