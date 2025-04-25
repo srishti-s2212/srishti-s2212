@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Srishti Sharma. I'm a Software Engineer.
 
-**Software Engineer 2 - BDCAD [May 2023 - present]:**
+**Software Engineer 2 - ServiceNow [May 2023 - present]:**
 - Backend Developement for BigData Cluster Management Platform
 - Languages: Javascript, Python
 - Integrated Generative AI (Mixtral LLM) for real-time error summarization
@@ -8,7 +8,7 @@
 - Task Execution Module: Designed and implemented a Task Execution Module to enhance system efficiency and robustness.
 - Enabled parallel execution, managed asynchronous calls both in backend and UI, and defined precise task sequencing to boost system efficiency and reliability.
 
-**Software Engineer - Azure [Mar 2022 - Apr 2023]:**
+**Software Engineer - Microsoft Azure [Mar 2022 - Apr 2023]:**
 - OSDU: Worked on Open Subsurface Data Platform(OSDU) - an open source forum that enables the Energy industry to develop transformational technology for oil/gas/fuel sectors.
 - CORS: Worked on HTTP access control - Cross-Origin Resource Sharing (CORS)
 - Istio: Gained knowledge on Istio - service mesh to manage traffic and enable CORS security
