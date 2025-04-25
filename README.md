@@ -16,11 +16,12 @@
 - CP/DP: Worked on Control Plane (C#) and Data Plane(Java) services of OSDU
 
 **Partner Technical Advisor [1st Feb 2021 - 4th July 2022]:**
-- Power BI Team - Data Analytics and Reporting
-- Worked with Microsoft customers and Partners, guiding and assisting with Power BI usage.
-- Collaborated with partners to optimize performance efficiency through SQL and DAX query tuning and DAX query optimization.
+- Power BI Team - Data Analytics and Reporting 
+- Optimized performance efficiency through SQL query tuning and DAX query optimization.
 - Improving query performance and enhancing overall report responsiveness.
-- Analyzed and optimized data models and queries for better performance in Power BI.
+- Worked with Customers and Partners, guiding and assisting with Power BI usage.
+- Provided consultation on latest features and releases
+- Led Power BI Internal Team
   
 **Software Development knowledge:**
   - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here](https://leetcode.com/u/misty1/), GeeksForGeeks profile [here](https://auth.geeksforgeeks.org/user/misty/profile).
