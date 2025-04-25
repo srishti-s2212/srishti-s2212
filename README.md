@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Srishti Sharma. I'm a Software Engineer.
 
 **Software Engineer 2 - ServiceNow [May 2023 - present]:**
-- Backend Developement for BigData Cluster Management Platform
+- FullStack Developement of BigData Cluster Management Platform
 - Languages: Javascript, Python
 - Integrated Generative AI (Mixtral LLM) for real-time error summarization
 - The GenAI Intelligence enabled users to view errors, suggested root causes, and potential solutions.
