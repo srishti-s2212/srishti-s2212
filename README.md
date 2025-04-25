@@ -1,6 +1,14 @@
-- 👋 Hey, I’m Srishti Sharma. I currently work at Microsoft as a Software Engineer.
+- 👋 Hey, I’m Srishti Sharma. I'm a Software Engineer.
 
-**Software Engineer - MEDS [Mar 2022 - present]:**
+**Software Engineer 2 - BDCAD [May 2023 - present]:**
+- Backend Developement for BigData Cluster Management Platform
+- Languages: Javascript, Python
+- Integrated Generative AI (Mixtral LLM) for real-time error summarization
+- The GenAI Intelligence enabled users to view errors, suggested root causes, and potential solutions.
+- Task Execution Module: Designed and implemented a Task Execution Module to enhance system efficiency and robustness.
+- Enabled parallel execution, managed asynchronous calls both in backend and UI, and defined precise task order and control flow.
+
+**Software Engineer - Azure [Mar 2022 - Apr 2023]:**
 - OSDU: Worked on Open Subsurface Data Platform(OSDU) - an open source forum that enables the Energy industry to develop transformational technology for oil/gas/fuel sectors.
 - CORS: Worked on HTTP access control - Cross-Origin Resource Sharing (CORS)
 - Istio: Gained knowledge on Istio - service mesh to manage traffic and enable CORS security
@@ -23,12 +31,15 @@
         - Ensure the team concerns/challenges are addressed and efficient processes are put in place.
   
 - Software Development knowledge: 
-  - My strong areas are **Data Structures and Algorithms**. Here is my **GeeksForGeeks Profile:** https://auth.geeksforgeeks.org/user/misty/profile
+  - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here]([url](https://leetcode.com/u/misty1/)), GeeksForGeeks profile [here]([url](https://auth.geeksforgeeks.org/user/misty/profile)).
   - **C++** is the language I use for coding.
   - I have used **OpenCV in C++** to make projects on **Image Processing - Doc Scanner** and **Video Processing - Virtual Paint**.
-  - I have also participated in Microsoft internal Software Development contests and have made few side projects on ReactJS which is included in my Github Repository.
-  - I secured **1st rank** in college for the academic session 2014 - 2018 in Department of Information Technology.
+  - I have also participated in Microsoft internal Software Development contests and have made side projects on ReactJS which is included in my Github Repository.
+  - I was a top performer in college for the academic session 2014 - 2018 in Department of Information Technology.
   
+- 🌱 I’m currently learning
+    - Agentic AI
+      
 - 👀 Interests:
      Below are some activities that I absolutely enjoy doing in my free time: -
     - Sketching/Painting
@@ -36,9 +47,7 @@
     - Playing outdoor sport. I participated in 5K Marathon. I am not the best runner but I enjoy any kind of outdoor sport.
     - Classical Dance (Bharatnatyam)
       
-- 🌱 I’m currently learning
-    - OpenCV and Advanced Computer Vision
-    - Bharatnatyam
+
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/srishti-sharma-72870a157/ or Email: srishti.s2212@gmail.com
 
