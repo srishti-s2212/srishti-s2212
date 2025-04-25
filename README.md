@@ -16,17 +16,11 @@
 - CP/DP: Worked on Control Plane (C#) and Data Plane(Java) services of OSDU
 
 **Partner Technical Advisor [1st Feb 2021 - 4th July 2022]:**
-- I worked with Microsoft customers and assisted Microsoft Partners to resolve Power BI technical issues so that Power BI can be used in the most efficient way. 
-    - Power BI is a data analytics tool of Microsoft which helps to create interactive dashboards and reports that provide actionable business insights.
-    - My role as a Partner Technical Advisor allowed me to work on technical aspects of Power BI - 
-        - Troubleshoot Power BI issues and work with EEEs & Product Team to resolve issues and share customer feedback.
-        - Run PowerShell cmdlets.
-        - Analyze logs - Fiddler Trace, Browser Trace, Network Trace, SQL Profiler Trace.
-        
-     - My role also included Managerial responsibilities: -
-        - Working with a Team of engineers and Fire Team Leads(FTLs) to ensure the business targets and timelines are met.
-        - Ensure case hygiene and regular FTL reviews on cases are followed.
-        - Ensure the team concerns/challenges are addressed and efficient processes are put in place.
+- Power BI Team - Data Analytics and Reporting
+- Worked with Microsoft customers and Partners, guiding and assisting with Power BI usage.
+- Collaborated with partners to optimize performance efficiency through SQL and DAX query tuning and DAX query optimization.
+- Improving query performance and enhancing overall report responsiveness.
+- Analyzed and optimized data models and queries for better performance in Power BI.
   
 - Software Development knowledge: 
   - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here](https://leetcode.com/u/misty1/), GeeksForGeeks profile [here](https://auth.geeksforgeeks.org/user/misty/profile).
