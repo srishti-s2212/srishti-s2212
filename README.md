@@ -23,7 +23,8 @@
 - Provided consultation on latest features and releases
 - Led Power BI Internal Team
 
-- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/srishti-sharma-72870a157/ or Email: srishti.s2212@gmail.com
+
+📫 You can reach me on LinkedIn: https://www.linkedin.com/in/srishti-sharma-72870a157/ or Email: srishti.s2212@gmail.com
 
 <!---
 srishti-s2212/srishti-s2212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
