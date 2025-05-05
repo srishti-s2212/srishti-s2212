@@ -22,25 +22,6 @@
 - Worked with Customers and Partners, guiding and assisting with Power BI usage.
 - Provided consultation on latest features and releases
 - Led Power BI Internal Team
-  
-**Software Development knowledge:**
-  - My strong areas are **Data Structures and Algorithms**. Please find my Leetcode profile [here](https://leetcode.com/u/misty1/), GeeksForGeeks profile [here](https://auth.geeksforgeeks.org/user/misty/profile).
-  - **C++** is the language I use for coding.
-  - I have used **OpenCV in C++** to make projects on **Image Processing - Doc Scanner** and **Video Processing - Virtual Paint**.
-  - I have also participated in Microsoft internal Software Development contests and have made side projects on ReactJS which is included in my Github Repository.
-  - I was a top performer in college for the academic session 2014 - 2018 in Department of Information Technology.
-  
-- 🌱 I’m currently learning
-    - Agentic AI
-      
-- 👀 Interests:
-     Below are some activities that I absolutely enjoy doing in my free time: -
-    - Sketching/Painting
-    - Reading
-    - Playing outdoor sport. I participated in 5K Marathon. I am not the best runner but I enjoy any kind of outdoor sport.
-    - Classical Dance (Bharatnatyam)
-      
-
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/srishti-sharma-72870a157/ or Email: srishti.s2212@gmail.com
 
