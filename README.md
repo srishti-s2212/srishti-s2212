@@ -17,11 +17,17 @@
 
 **Partner Technical Advisor [1st Feb 2021 - 4th July 2022]:**
 - Power BI Team - Data Analytics and Reporting 
-- Optimized performance efficiency through SQL query tuning and DAX query optimization.
-- Improving query performance and enhancing overall report responsiveness.
-- Worked with Customers and Partners, guiding and assisting with Power BI usage.
-- Provided consultation on latest features and releases
 - Led Power BI Internal Team
+- Worked with Customers and Partners, guiding and assisting with Power BI usage.
+- Analyzed SQL query performance efficiency and suggested best practices.
+- Assisted customers by enhancing overall report responsiveness.
+- Delivered triages on latest features and releases.
+
+**Power BI Engineer [Aug 2018 - Jan 2021]**
+- Worked on Gateway Load Balancing & High Availability Clusters.
+- SME on MS Power BI Desktop and Gateway.
+- Delivered triages and contributed to blogs on Power BI features and functionalities.
+- Delivered public TechTalks to share insights on Power BI architecture, features, usage & performance.
 
 
 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/srishti-sharma-72870a157/ or Email: srishti.s2212@gmail.com
